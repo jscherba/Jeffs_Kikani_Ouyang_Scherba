@@ -1,0 +1,2 @@
+### Overall Approach
+We will evaluate how the cellular composition and spatial organization of the healthy human intestine changes with age, with particular focus on the spatial distribution of different immune cell types. We will segment the 9 donors into 3 age categories (young n=3, middle n=3, aged n=3). By identifying changes in the immune cell population relative to tissue level features, our analysis may offer insights about inflammaging and immunosenescence.
